@@ -1,1 +1,2 @@
 Este é um teste para aprendizado de Git GitHub
+Olá! Eu sou uma nova linha.
