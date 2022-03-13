@@ -1,1 +1,3 @@
 Este é um teste para aprendizado de Git GitHub
+Olá! 
+dentro de um novo branch de trabalho "staging"
