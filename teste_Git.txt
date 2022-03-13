@@ -1,3 +1,7 @@
 Este é um teste para aprendizado de Git GitHub
+<<<<<<< HEAD
 Olá! 
 dentro de um novo branch de trabalho "staging"
+=======
+Olá! Eu sou uma nova linha.
+>>>>>>> 6a1e8e62e34b36b76fa7a9fe9c64c6aba4d04afe
